@@ -6,3 +6,5 @@ lasagna
 Chicken Noodle Soup
 Ramen
 Tuna Roll
+French Fries
+potato chips
